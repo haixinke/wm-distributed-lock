@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.wm.spring.boot.autoconfigure.lock.DistributedLockAutoConfiguration,\
+  com.wm.spring.boot.autoconfigure.lock.DistributedLockAspectConfiguration
